@@ -42,3 +42,17 @@ img{
     background-color: white;
  margin-top: 40px;
 }
+
+a{   
+    margin:auto;
+    width: 30%;
+    text-align:center;
+    font-size:26px;
+    text-decoration:none;
+    border-radius:10px;
+}
+a:hover{
+    background-color:black;
+    cursor:pointer;
+    color:white;
+}
