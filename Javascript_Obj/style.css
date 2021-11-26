@@ -50,6 +50,7 @@ a{
     font-size:26px;
     text-decoration:none;
     border-radius:10px;
+    background-color: white;
 }
 a:hover{
     background-color:black;
